@@ -3,6 +3,8 @@
 PyTorch로 U-Net을 직접 구현하고, Oxford-IIIT Pet Dataset으로 시맨틱 세그멘테이션을 학습한 실습 프로젝트입니다.
 
 > 📄 논문: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) (Ronneberger et al., MICCAI 2015)
+>
+>  📝 논문 리뷰 포스트: https://velog.io/@jiiiin0/논문-리뷰-U-Net-생체-의학-영상-분할을-위한-컨볼루션-신경망
 
 ---
 
